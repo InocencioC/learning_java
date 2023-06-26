@@ -1,7 +1,249 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ce9f70d9-8cc5-4a03-88b2-8a413aa6ebd0" name="Changes" comment="" />
+    <list default="true" id="ce9f70d9-8cc5-4a03-88b2-8a413aa6ebd0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Aluno/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aluno/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aluno/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aluno/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aluno/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aluno/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aluno/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aluno/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aluno/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aluno/target/classes/org/example/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aluno/umgarcia.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Animais1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Animais1/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Animais1/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Animais1/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Animais1/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Animais1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Animais1/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Animais1/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Animais1/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculadora/build/built-jar.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculadora/build/classes/.netbeans_automatic_build" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculadora/build/classes/.netbeans_update_resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculadora/build/classes/br/com/william/calculadora/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculadora/build/classes/br/com/william/calculadora/gui/CalculadoraGui$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculadora/build/classes/br/com/william/calculadora/gui/CalculadoraGui$10.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculadora/build/classes/br/com/william/calculadora/gui/CalculadoraGui$11.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculadora/build/classes/br/com/william/calculadora/gui/CalculadoraGui$12.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculadora/build/classes/br/com/william/calculadora/gui/CalculadoraGui$13.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculadora/build/classes/br/com/william/calculadora/gui/CalculadoraGui$14.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculadora/build/classes/br/com/william/calculadora/gui/CalculadoraGui$15.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculadora/build/classes/br/com/william/calculadora/gui/CalculadoraGui$16.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculadora/build/classes/br/com/william/calculadora/gui/CalculadoraGui$17.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculadora/build/classes/br/com/william/calculadora/gui/CalculadoraGui$18.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculadora/build/classes/br/com/william/calculadora/gui/CalculadoraGui$19.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculadora/build/classes/br/com/william/calculadora/gui/CalculadoraGui$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculadora/build/classes/br/com/william/calculadora/gui/CalculadoraGui$20.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculadora/build/classes/br/com/william/calculadora/gui/CalculadoraGui$21.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculadora/build/classes/br/com/william/calculadora/gui/CalculadoraGui$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculadora/build/classes/br/com/william/calculadora/gui/CalculadoraGui$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculadora/build/classes/br/com/william/calculadora/gui/CalculadoraGui$5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculadora/build/classes/br/com/william/calculadora/gui/CalculadoraGui$6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculadora/build/classes/br/com/william/calculadora/gui/CalculadoraGui$7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculadora/build/classes/br/com/william/calculadora/gui/CalculadoraGui$8.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculadora/build/classes/br/com/william/calculadora/gui/CalculadoraGui$9.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculadora/build/classes/br/com/william/calculadora/gui/CalculadoraGui.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculadora/build/classes/br/com/william/calculadora/gui/CalculadoraGui.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculadora/build/classes/br/com/william/calculadora/logico/Logica.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculadora/build/classes/br/com/william/calculadora/multimidia/calculator.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculadora/build/classes/br/com/william/calculadora/teste/Teste.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculadora/build/classes/calculator.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculadora/dist/Calculadora.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculadora/dist/README.TXT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculadora/dist/lib/AbsoluteLayout.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculadora/image/Calculadora.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculadora/src/br/com/william/calculadora/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculadora/src/br/com/william/calculadora/gui/CalculadoraGui.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculadora/src/br/com/william/calculadora/gui/CalculadoraGui.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculadora/src/br/com/william/calculadora/logico/Logica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculadora/src/br/com/william/calculadora/multimidia/calculator.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculadora/src/br/com/william/calculadora/teste/Teste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculadora/src/calculator.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conta/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conta/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conta/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conta/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conta/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conta/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conta/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conta/src/main/java/org/example/Conta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conta/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conta/target/classes/org/example/Conta.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conta/target/classes/org/example/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Funcionario/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Funcionario/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Funcionario/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Funcionario/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Funcionario/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Funcionario/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Funcionario/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Funcionario/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Funcionario/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Funcionario/src/main/java/org/example/Funcionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Funcionario/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Funcionario/src/main/java/org/example/Processamento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Funcionario/target/classes/org/example/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inocêncio/Quilometragem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quilometragem/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quilometragem/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quilometragem/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quilometragem/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quilometragem/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quilometragem/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quilometragem/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quilometragem/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quilometragem/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quilometragem/target/classes/org/example/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rectangulo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Veterinario/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Veterinario/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Veterinario/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Veterinario/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Veterinario/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Veterinario/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Veterinario/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Veterinario/src/main/java/org/example/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Veterinario/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Veterinario/target/classes/org/example/Animal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Veterinario/target/classes/org/example/Main$Animal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Veterinario/target/classes/org/example/Main$Cao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Veterinario/target/classes/org/example/Main$Cavalo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Veterinario/target/classes/org/example/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/combustivel/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/combustivel/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/combustivel/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/combustivel/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/combustivel/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/combustivel/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/combustivel/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/combustivel/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/combustivel/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/combustivel/target/classes/org/example/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comissaovendas/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comissaovendas/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comissaovendas/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comissaovendas/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comissaovendas/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comissaovendas/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comissaovendas/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comissaovendas/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comissaovendas/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comissaovendas/target/classes/org/example/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contac/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contac/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contac/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contac/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contac/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contac/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contac/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contac/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contac/src/main/java/org/example/ContaCorrente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contac/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/credito/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/credito/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/credito/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/credito/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/credito/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/credito/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/credito/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/credito/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/credito/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/credito/target/classes/org/example/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio2/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio2/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio2/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio2/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio2/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio2/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio2/src/main/java/org/example/TestClasses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio2/target/classes/org/example/Empregado.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio2/target/classes/org/example/Gerente.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio2/target/classes/org/example/TestClasses.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio2/target/classes/org/example/Vendedor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ingresso/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ingresso/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ingresso/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ingresso/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ingresso/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ingresso/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ingresso/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ingresso/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/matriz/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/matriz/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/matriz/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/matriz/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/matriz/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/matriz/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/matriz/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/matriz/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/matriz/target/classes/org/example/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/matriz2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/matriz2/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/matriz2/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/matriz2/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/matriz2/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/matriz2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/matriz2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/matriz2/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/matriz2/target/classes/org/example/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prova1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prova1/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prova1/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prova1/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prova1/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prova1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prova1/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prova1/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prova1/src/main/java/org/example/veterinario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/segundo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/segundo/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/segundo/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/segundo/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/segundo/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/segundo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/segundo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/segundo/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/umgarcia/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/umgarcia/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/umgarcia/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/umgarcia/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/umgarcia/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/umgarcia/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/umgarcia/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/umgarcia/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/target/classes/org/example/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zoologico/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zoologico/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zoologico/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zoologico/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zoologico/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zoologico/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zoologico/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zoologico/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zoologico/target/classes/org/example/Animal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zoologico/target/classes/org/example/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zoologico/target/classes/org/example/Zoologico.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inocêncio/out/production/Inocêncio/IdadeAnoSeguinte.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rectangulo/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Rectangulo/.idea/vcs.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,17 +253,33 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2MK88GfjuClU6PrBACCBZfBFvs6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Inocencio.Armando/Documents/learning_java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Inocencio.Armando/Documents/learning_java&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="learning_java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="learning_java" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
