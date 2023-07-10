@@ -26,5 +26,13 @@ public class banco {
         luis.Pagar(100d);
         luis.extrato();
 
+
+        Conta Suzeth = new Conta("Suzeth", 6,1000d);
+        Suzeth.extrato();
+        Suzeth.transfere(50);
+
+        Suzeth.extrato();
+
+
     }
 }

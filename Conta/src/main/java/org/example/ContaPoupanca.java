@@ -1,5 +1,4 @@
 package org.example;
-import java.util.Scanner;
 
 public class ContaPoupanca extends Conta {
 
@@ -8,7 +7,7 @@ public class ContaPoupanca extends Conta {
 
     }
 
-    public void sacar(double valor){
+    public boolean sacar(double valor){
         if(valor +2 <= saldo ){
             saldo -= valor +2;
             saques++;
@@ -17,6 +16,7 @@ public class ContaPoupanca extends Conta {
         } else {
             System.out.println("Saldo insuficiente. Faça um depósito\n");
         }
+        return false;
     }
 
 }

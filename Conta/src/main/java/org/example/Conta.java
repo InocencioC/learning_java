@@ -24,7 +24,7 @@ public class Conta {
 
         }
 
-        public void sacar(double valor){
+        public boolean sacar(double valor){
             if(saldo >= valor){
                 saldo -= valor;
                 saques++;
@@ -33,6 +33,7 @@ public class Conta {
             } else {
                 System.out.println("Saldo insuficiente. Faça um depósito\n");
             }
+            return false;
         }
 
         public void depositar(double valor)
@@ -42,7 +43,21 @@ public class Conta {
             System.out.println("Novo saldo: " + saldo + "\n");
         }
 
-        public void iniciar(){
+    public void transfere(double valor)
+    {
+        boolean retirou = this.sacar(valor);
+        if (retirou == false) {
+
+        } else{
+            depositar(100);
+
+        }
+
+       System.out.println("Valor transferido: " + valor );
+       System.out.println("Novo saldo: " + saldo + "\n");
+    }
+
+    public void iniciar(){
             int opcao;
 
             do{
